@@ -24,3 +24,4 @@ URL : https://www.saucedemo.com/
 
 ## Report
 Once the execution completes, report will be generated inside root folder, it can be viewed in log.html file
+<img width="1792" alt="Screenshot 2025-05-06 at 14 25 38" src="https://github.com/user-attachments/assets/75fab63c-d985-42e1-9abd-3cfe298a39ac" />
